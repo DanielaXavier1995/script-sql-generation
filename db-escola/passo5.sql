@@ -1,0 +1,1 @@
+SELECT * FROM tb_estudantes WHERE nota1 < 7.0;
